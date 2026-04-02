@@ -7,6 +7,8 @@ I architect data systems with a core focus on resilience and scalability. My pro
 
 My current work operates at the intersection of High Performance Data Engineering and Industrial AI. I specialize in transforming fragmented raw data into reliable production ready pipelines that power intelligent systems.
 
+**Core Focus:**
+
 **Data Engineering:** Building ETL and ELT pipelines using Python, SQL, and Airflow to move data from raw sources to clean warehouses.
 
 **Data Security:** Protecting cloud data on AWS or Azure using IAM roles, encryption, and secure VPC configurations.
