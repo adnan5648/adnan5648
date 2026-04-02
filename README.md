@@ -1,5 +1,17 @@
 # 💫 About Me:
-Hello! I'm Muhammad Adnan Waris<br><br>I am a Data Engineer with a background in Cybersecurity. My journey began with Network and Infrastructure Security which instilled in me a **Security** mindset that I now apply to building robust data systems.<br><br>Currently, I focus on designing and optimizing scalable Data Pipelines, Mastering ETL/ELT processes, and managing Cloud-Native Architectures. <br>I enjoy bridging the gap between secure system design and high-performance data engineering.
+**Muhammad Adnan Waris**
+
+**Data Engineer | Infrastructure & Security Advocate**
+
+I architect data systems with a core focus on resilience and scalability. My professional background in Network and Infrastructure Security dictates my engineering approach. I prioritize building secure systems by design.
+
+My current work operates at the intersection of High Performance Data Engineering and Industrial AI. I specialize in transforming fragmented raw data into reliable production ready pipelines that power intelligent systems.
+
+**Data Engineering:** Building ETL and ELT pipelines using Python, SQL, and Airflow to move data from raw sources to clean warehouses.
+
+**Data Security:** Protecting cloud data on AWS or Azure using IAM roles, encryption, and secure VPC configurations.
+
+**Industrial AI:** Preparing sensor and machine data for predictive maintenance models using Spark and Kafka.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adnan___807) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-adnan-waris) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adnanwaris807@gmail.com) 
